@@ -1,4 +1,3 @@
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qqzvyg54bmbsuxzvc35e3d3v2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ![logo](https://github.com/avneesharyan/avneesharyan/blob/main/1702315057829.jpg)
@@ -36,7 +35,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/avneesharyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="avneesharyan" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avneesharyan&show_icons=true&locale=en&layout=compact" alt="avneesharyan" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=avneesharyan&show_icons=true&locale=en&layout=compact" alt="avneesharyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avneesharyan&show_icons=true&locale=en" alt="avneesharyan" /></p>
 
