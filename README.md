@@ -1,4 +1,3 @@
-<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qqzvyg54bmbsuxzvc35e3d3v2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
@@ -9,8 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avneesharyan&label=Profile%20views&color=0e75b6&style=flat" alt="avneesharyan" /> </p>
 
-
-- 🔭 I’m currently working on: **Software Engineering and Development**
+- 🔭I’m currently working on: **Software Engineering and Development**
 
 - 🌱 I’m currently learning: **Backend Functionalities**
 
@@ -24,7 +22,6 @@
 
 - ⚡ Fun fact: **It's not easy being this witty, but someone has to do it!**
 
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
