@@ -1,11 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qqzvyg54bmbsuxzvc35e3d3v2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-![logo](https://github.com/avneesharyan/avneesharyan/blob/main/1702315057829.jpg)
-<h1 align="center">Hi 👋, I'm Avneesh Aryan</h1>
-<h3 align="center">A passionate SDE looking out at the vast universe seeking something which may or may not exist. Schrödinger's Cat got nothing on me! </h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avneesharyan&label=Profile%20views&color=0e75b6&style=flat" alt="avneesharyan" /> </p>
 
 - 🔭I’m currently working on: **Software Engineering and Development**
 
